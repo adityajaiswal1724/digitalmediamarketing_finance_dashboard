@@ -1,0 +1,11 @@
+{
+  "name": "@demo/finance",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "types": "index.d.ts",
+  "dependencies": {
+    "decimal.js": "^10.6.0"
+  },
+  "type": "module"
+}
